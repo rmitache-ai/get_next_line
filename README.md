@@ -4,6 +4,7 @@
 
 The C function get_next_line takes lines from a file or input stream and returns each line as a null-terminated string. Up until it meets a newline character or reaches the end of the file, it retrieves the following line.
 
+![image](https://i.ibb.co/dkQBPyq/Frame-1-2.jpg)
 ## Usage
 ### Requirements
 Because the function is written in C, it requires the gcc compiler and a few common C libraries to run.
